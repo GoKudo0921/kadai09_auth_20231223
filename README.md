@@ -7,12 +7,9 @@
 - ブースト機能がついてます
   - 広告を閲覧して、５ポイント獲得することができます
   - 別の広告を閲覧すると、獲得ポイントが倍になります
-    
+
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-04 at 23 23 21](https://github.com/GoKudo0921/kadai09_auth_20231223/assets/148073393/c4486ede-7269-4965-b447-9eb434191dd5)
-
 ![Simulator Screenshot - iPhone 15 Pro Max - 2024-01-04 at 23 23 26](https://github.com/GoKudo0921/kadai09_auth_20231223/assets/148073393/71f0d528-eb8e-4f7e-aed7-513614a8eb35)
-
-
 
 ## 工夫した点
 - 実際にありそうなアプリです
